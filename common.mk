@@ -9,3 +9,6 @@ include vendor/themes/iconpacks.mk
 
 # Icon Shapes
 include vendor/themes/iconshapes.mk
+
+# UI Styles
+include vendor/themes/uistyles.mk
