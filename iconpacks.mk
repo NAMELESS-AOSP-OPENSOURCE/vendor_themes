@@ -1,5 +1,3 @@
-LOCAL_PATH := vendor/themes
-
 # Icon shape overlays
 PRODUCT_PACKAGES += \
     IconPackCircularAndroidOverlay \
@@ -27,30 +25,20 @@ PRODUCT_PACKAGES += \
     IconPackFilledSettingsOverlay \
     IconPackFilledSystemUIOverlay \
     IconPackFilledThemePickerOverlay \
+    IconPackPUIAndroidOverlay \
+    IconPackPUILauncherOverlay \
+    IconPackPUISettingsOverlay \
+    IconPackPUISystemUIOverlay \
+    IconPackPUIThemePickerOverlay \
     IconPackRoundedAndroidOverlay \
     IconPackRoundedLauncherOverlay \
     IconPackRoundedSettingsOverlay \
     IconPackRoundedSystemUIOverlay \
-    IconPackRoundedThemePickerOverlay
-
-# Statusbar Icons
-PRODUCT_PACKAGES += \
-    StrokeSignalOverlay \
-    SneakySignalOverlay \
-    XperiaSignalOverlay \
-    ZigZagSignalOverlay \
-    WavySignalOverlay \
-    RoundSignalOverlay \
-    InsideSignalOverlay \
-    BarsSignalOverlay
-
-# Wi-Fi Icons
-PRODUCT_PACKAGES += \
-    StrokeWiFiOverlay \
-    SneakyWiFiOverlay \
-    XperiaWiFiOverlay \
-    ZigZagWiFiOverlay \
-    WavyWiFiOverlay \
-    RoundWiFiOverlay \
-    InsideWiFiOverlay \
-    BarsWiFiOverlay
+    IconPackRoundedThemePickerOverlay \
+    IconPackOOSAndroidOverlay \
+    IconPackOOSLauncherOverlay \
+    IconPackOOSSettingsOverlay \
+    IconPackOOSSystemUIOverlay \
+    IconPackOOSThemePickerOverlay \
+    IconPackAcherusAndroidOverlay \
+    IconPackAcherusSystemUIOverlay

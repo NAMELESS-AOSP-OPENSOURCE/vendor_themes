@@ -1,23 +1,17 @@
 # Icon shape overlays
 PRODUCT_PACKAGES += \
+    IconShapeCloudyOverlay \
+    IconShapeCylinderOverlay \
+    IconShapeFlowerOverlay \
+    IconShapeHeartOverlay \
+    IconShapeHexagonOverlay \
+    IconShapeLeafOverlay \
+    IconShapePebbleOverlay \
+    IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
     IconShapeSquareOverlay \
     IconShapeSquircleOverlay \
-    IconShapeTeardropOverlay \
-    IconShapeCylinderOverlay \
-    IconShapeHexagonOverlay \
-    IconShapePebbleOverlay \
+    IconShapeStretchedOverlay \
     IconShapeTaperedRectOverlay \
+    IconShapeTeardropOverlay \
     IconShapeVesselOverlay
-
-# Statusbar Icons
-PRODUCT_PACKAGES += \
-    StrokeSignalOverlay \
-    SneakySignalOverlay \
-    XperiaSignalOverlay
-
-# Wi-Fi Icons
-PRODUCT_PACKAGES += \
-    StrokeWiFiOverlay \
-    SneakyWiFiOverlay \
-    XperiaWiFiOverlay
