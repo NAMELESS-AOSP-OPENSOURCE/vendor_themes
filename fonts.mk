@@ -7,6 +7,7 @@ PRODUCT_PACKAGES += \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
+    FontAntipastoProSourceOverlay \
     FontBariolOverlay \
     FontCagliostroOverlay \
     FontCoconOverlay \
@@ -14,15 +15,20 @@ PRODUCT_PACKAGES += \
     FontComicSansOverlay \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
+    FontEvolveSansSourceOverlay \
     FontFifa2018Overlay \
+    FontFucekSourceOverlay \
     FontGoogleSansOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontLatoOverlay \
+    FontLemonMilkSourceOverlay \
     FontLGSmartGothicOverlay \
     FontLinotteOverlay \
+    FontManropeOverlay \
     FontNokiaPureOverlay \
     FontNunitoOverlay \
+    FontOdudaSourceOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
     FontOswaldOverlay \
@@ -33,6 +39,7 @@ PRODUCT_PACKAGES += \
     FontRosemaryOverlay \
     FontRubikOverlay \
     FontSamsungOneOverlay \
+    FontSimpleDaySourceOverlay \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
