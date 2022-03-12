@@ -2,6 +2,8 @@
 PRODUCT_PACKAGES += \
     BarsSignalOverlay \
     BarsWiFiOverlay \
+    DoraSignalOverlay \
+    DoraWiFiOverlay \
     InsideSignalOverlay \
     InsideWiFiOverlay \
     RoundSignalOverlay \
