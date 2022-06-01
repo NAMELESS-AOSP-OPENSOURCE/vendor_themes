@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     FontOdudaSourceOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
+    FontOppoSansOverlay \
     FontOswaldOverlay \
     FontQuandoOverlay \
     FontRedressedOverlay \
