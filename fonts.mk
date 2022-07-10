@@ -28,6 +28,7 @@ PRODUCT_PACKAGES += \
     FontManropeOverlay \
     FontNokiaPureOverlay \
     FontNunitoOverlay \
+    FontNothingOverlay \
     FontOdudaSourceOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
